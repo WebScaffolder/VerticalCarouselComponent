@@ -1,0 +1,2 @@
+# VerticalCarouselComponent
+Created with CodeSandbox
